@@ -18,9 +18,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String str = '_ _ _ _';
-  final h = TextEditingController();
-  final w = TextEditingController();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
